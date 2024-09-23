@@ -1,3 +1,4 @@
+
 class User:
     def __init__(self, user_id, name, email, password, contact_no, address):
         self.user_id = user_id
